@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joydeepa Banik</h1>
-<h3 align="center">Hi, Joydeepa here, a 2nd year B.Tech undergrad in Mechanical Engineering at the National Institute of Technology, Agartala. I'm a tech enthusiast currently honing my skills in C/C++, Python, and diving into Data Structures, AI/ML fundamentals and Web Development to explore the tech space</h3>
+<h3 align="center">Hi, Joydeepa here, a B.Tech undergrad at the National Institute of Technology, Agartala. I'm a tech enthusiast currently honing my skills in C/C++, Python, and diving into Data Structures, AI/ML fundamentals and Web Development to explore the tech space</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joydeepab&label=Profile%20views&color=0e75b6&style=flat" alt="joydeepab" /> </p>
 
